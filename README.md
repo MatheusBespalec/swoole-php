@@ -7,6 +7,11 @@ https://www.youtube.com/watch?v=GCECSLtT49U
 
 https://launchpad.net/~openswoole/+archive/ubuntu/ppa
 
+## Requisitos
+
+- PHP
+- Extensão php-openswoole
+
 ## Utilitazação
 
 Execute o arquivo server/index.php com o comando abaixo:
